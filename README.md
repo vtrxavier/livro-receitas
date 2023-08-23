@@ -1,11 +1,10 @@
 # Livro de Receitas 
 
-TESTE COMFLITO
 
-Olá! Bem vindo ao meu livro de receitas 
 
-strogonoff de frango
+1. Olá! Bem vindo ao meu livro de receitas 
+2. strogonoff de frango
 
-pavê
+3. pavê
 
-Suco de Limão
+4. Suco de Limão
